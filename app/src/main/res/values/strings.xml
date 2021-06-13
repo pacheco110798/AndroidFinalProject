@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ProyectoFinal</string>
+    <string name="txtNombre">Nombre</string>
+    <string name="txtCorreo">Correo</string>
+    <string name="txtPassword">Contraseña</string>
+    <string name="tvFecha">Selecciona una fecha</string>
+    <string name="tvHora">Selecciona una hora</string>
+    <string name="title_activity_registro">Registro</string>
+    <string name="registrarse">Registrarse</string>
+    <string name="btnRegresar">Regresar</string>
+    <string name="btnEnviar">Enviar</string>
+    <string name="medico">Médico</string>
+    <string name="paciente">Paciente</string>
+    <string name="nvaCita">Nueva Cita</string>
+    <string name="conCita">Consultar Cita</string>
+    <string name="canCita">Cancelar Cita</string>
+</resources>
